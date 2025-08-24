@@ -1,9 +1,9 @@
 
-# 🚀 Azure Data Engineering Project — E-commerce End to End Data Pipeline
+# ☀️ Azure Data Engineering Project — E-commerce End to End Data Pipeline
 
-An end-to-end Azure Data Engineering project implementing a real-world, production-grade pipeline for e-commerce data. This project demonstrates data ingestion, transformation, enrichment, and serving, leveraging Azure Data Factory, Azure Databricks, Azure Synapse Analytics, MongoDB, and Apache Spark, following the Medallion Lakehouse Architecture.
+`An end-to-end Azure Data Engineering project implementing a real-world, production-grade pipeline for e-commerce data. This project demonstrates integrating multi-source data ingestion, Azure Data Lake Gen2 for scalable storage, big data transformation with Apache Spark on Databricks, and advanced analytics using Azure Synapse, following the Medallion Lakehouse Architecture.`
 
-📌 Table of Contents
+### 📌 Table of Contents
 ___________
 📖 Project Overview
 
@@ -32,3 +32,5 @@ ___________
 🤝 Contributing
 
 📜 License
+
+
