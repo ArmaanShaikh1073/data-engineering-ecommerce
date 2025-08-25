@@ -25,7 +25,6 @@ ___________
 
 📈 Outcomes & Learnings
 
-🚀 How to Run the Project
 
 📌 Future Enhancements
 
