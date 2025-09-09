@@ -26,8 +26,6 @@ ___________
 📈 Outcomes & Learnings
 
 
-📌 Future Enhancements
-
 🤝 Contributing
 
 📜 License
